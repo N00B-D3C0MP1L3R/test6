@@ -1,1 +1,2 @@
-import RANDOM32.PY
+import RANDOM32
+
