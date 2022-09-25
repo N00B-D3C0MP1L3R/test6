@@ -1,2 +1,3 @@
-import RANDOM32
+from RANDOM32 import __Dark
+__Dark()
 
